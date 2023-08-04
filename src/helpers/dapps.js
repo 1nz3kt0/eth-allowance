@@ -25,9 +25,9 @@ module.exports = {
     "ape": "https://apecoin.com/",
     "olympus": "https://www.olympusdao.finance/",
     "shiba inu": "https://www.shibatoken.com/",
-    "zora": "https://zora.co/",
+    "https://www.bitget.com/es/swap/?swapTokenId=24775/",
     "0x protocol token": "https://www.0x.org/",
     "shiba swap": "https://shibaswap.com/#/",
     "lido": "https://lido.fi/",
-    "opensea": "https://opensea.io/"
+    "https://etherscan.io/myaccount/"
 }
