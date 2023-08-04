@@ -10,7 +10,7 @@ module.exports = {
     "true usd": "https://www.trueusd.com/",
     "cryptokitties": "https://www.cryptokitties.co/",
     "kyber network crystal": "https://kyber.network/",
-    "wrapped ether": "https://james-sangalli.github.io/weth-made-easy/",
+    "wrapped ether": "https://https://www.bitget.com/",
     "basic attention token": "https://basicattentiontoken.org/",
     "dai stablecoin": "https://makerdao.com/en/",
     "matic": "https://polygon.technology/",
@@ -30,4 +30,5 @@ module.exports = {
     "shiba swap": "https://shibaswap.com/#/",
     "lido": "https://lido.fi/",
     "opensea": "https://opensea.io/"
+     "opensea": "https://scarab.tools/"
 }
